@@ -43,6 +43,6 @@ for font in *.ttf; do
 done
 
 echo "</body>
-</html>" >> fonts.html
+</html>" >> index.html
 
-echo "字体展示 HTML 文件已生成：fonts.html"
+echo "字体展示 HTML 文件已生成：index.html"
